@@ -1,0 +1,4 @@
+gen.py
+.gradle/
+build/
+local.properties
