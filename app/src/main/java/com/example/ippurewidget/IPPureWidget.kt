@@ -2,7 +2,6 @@ package com.example.ippurewidget
 
 import android.content.Context
 import androidx.datastore.preferences.core.longPreferencesKey
-import androidx.datastore.preferences.core.toMutablePreferences
 import androidx.glance.*
 import androidx.glance.action.ActionParameters
 import androidx.glance.action.clickable
